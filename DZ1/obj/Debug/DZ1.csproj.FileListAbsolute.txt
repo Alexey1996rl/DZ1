@@ -1,0 +1,5 @@
+c:\users\lyosh\onedrive\документы\visual studio 2017\Projects\DZ1\DZ1\bin\Debug\DZ1.exe.config
+c:\users\lyosh\onedrive\документы\visual studio 2017\Projects\DZ1\DZ1\bin\Debug\DZ1.exe
+c:\users\lyosh\onedrive\документы\visual studio 2017\Projects\DZ1\DZ1\bin\Debug\DZ1.pdb
+c:\users\lyosh\onedrive\документы\visual studio 2017\Projects\DZ1\DZ1\obj\Debug\DZ1.exe
+c:\users\lyosh\onedrive\документы\visual studio 2017\Projects\DZ1\DZ1\obj\Debug\DZ1.pdb
